@@ -1,4 +1,6 @@
-Let's play with practicle expmles of Observer Pattern
+Let's play with practicle expmles of Observer Pattern.
+Idea is to create simple demo with simple events. 
+
 https://en.wikipedia.org/wiki/Observer_pattern
 https://docs.microsoft.com/en-us/dotnet/standard/events/observer-design-pattern
 
